@@ -1,0 +1,2 @@
+# For-a-Few-Dollars-More.-Liquidity-Provision-in-Dynamic-Fee-AMMs.
+This repository investigates whether volatility-responsive dynamic fees mitigate liquidity withdrawals in automated market makers during periods of market stress. Liquidity provision in dynamic-fee and static-fee Uniswap v4 pools trading identical asset pairs is compared, using on-chain event data and realized volatility estimates.
